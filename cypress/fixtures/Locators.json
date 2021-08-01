@@ -1,0 +1,25 @@
+{
+    "Header": {
+        "Login": "a[href='/login']",
+        "Register": "a[href='/register']",
+        "GalleryApp": ".navbar-brand",
+        "AllGalleries": ".nav-link"
+    },
+    "Login": {
+        "Email":"#email",
+        "Password":"#password",
+        "Submit":"button[type='submit']",
+        "Logout" : "a[role='button ']"
+    },
+
+      
+    "Register": {
+        "firstName": "#first-name",
+        "lastName" : "#last-name",
+        "Email": "#email",
+        "Password" : "#password",
+        "PassConfirmation" : "#password-confirmation",
+        "Checkbox" : "input[type='checkbox']",
+        "Submit": "button[type='submit']"
+    }
+}
